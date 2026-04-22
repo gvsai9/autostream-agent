@@ -1,0 +1,32 @@
+# API keys — NEVER commit these
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Auto-generated vector store (rebuilt on first run)
+data/faiss_index/
+
+# Test/debug scripts
+test.py
+
+# Distribution
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
