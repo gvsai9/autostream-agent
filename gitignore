@@ -30,3 +30,10 @@ build/
 
 # Pytest
 .pytest_cache/
+
+.env
+__pycache__/
+*.pyc
+data/faiss_index/
+venv/
+.vscode/
