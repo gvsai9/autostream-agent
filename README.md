@@ -136,7 +136,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/autostream-agent.git
+git clone https://github.com/gvsai9/autostream-agent
 cd autostream-agent
 
 # 2. Create virtual environment
